@@ -1,7 +1,11 @@
 # makibox-jw
 Jürgen's modded Makibox
 
-Changes:
+# References
+* http://mymakibox.blogspot.de/2014/03/upgrading-your-hotend-to-e3d-v5.html
+* https://www.thingiverse.com/thing:255237
+
+# Changes
 
 * New completely self designed Extruder. Mostly from handmade Aluminum parts.
   More force. That was needed to push filament through the original hotend.
