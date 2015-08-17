@@ -5,6 +5,7 @@ Jürgen's modded Makibox
 * http://mymakibox.blogspot.de/2014/03/upgrading-your-hotend-to-e3d-v5.html
 * https://www.thingiverse.com/thing:255237
 * https://bitbucket.org/makible/
+* https://github.com/ErikZalm/Marlin
 
 # Changes
 
